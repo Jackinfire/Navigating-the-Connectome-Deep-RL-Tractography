@@ -1,0 +1,41 @@
+
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.DS_Store
+
+# Environments
+.env
+.venv
+env/
+venv/
+ENV/
+
+# Data
+ISMRM_2015_Tracto_challenge_data/
+*.nii.gz
+*.nii
+
+# Outputs
+*.trk
+*.tck
+experiments/
+*.png
+!figures/*.png
+*.jpg
+*.jpeg
+
+# Models
+*.pth
+*.ckpt
+TrackToLearn/models/*.pth
+TrackToLearn/models/*.ckpt
+
+# IDEs
+.vscode/
+.idea/
+
+# Notebooks (optional, unignore if needed)
+.ipynb_checkpoints
