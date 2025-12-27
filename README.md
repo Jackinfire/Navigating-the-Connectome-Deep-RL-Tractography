@@ -68,3 +68,13 @@ python3 scripts/plot_action_histogram.py sac_roi.trk figures/action_histogram.pn
 
 ## Dataset
 This project uses the ISMRM 2015 Tractography Challenge dataset. Ensure `ISMRM_2015_Tracto_challenge_data/` is present in the root directory.
+
+## References 
+References
+Christiaens, D., Tournier, J.-D. and Seiberlich, N. (2020) 'Modeling fiber orientations using diffusion MRI', in Quantitative Magnetic Resonance Imaging (Advances in Magnetic Resonance Technology and Applications, Volume 1). Elsevier, pp. 509–534. doi:10.1016/B978–0–12–817057–1.00022–6.​
+Du, H., Li, Z., Niyato, D., Kang, J., Xiong, Z., Xu, X., Shen, X. and Kim, D.I. (2023) 'Enabling AI-generated content (AIGC) services in wireless edge networks', arXiv preprint arXiv:2301.03220. doi:10.48550/arXiv.2301.03220.​
+Haarnoja, T., Zhou, A., Abbeel, P. and Levine, S. (2018) 'Soft Actor-Critic: Off-policy maximum entropy deep reinforcement learning with a stochastic actor', in Proceedings of the 35th International Conference on Machine Learning (ICML 2018), pp. 1861–1870.​
+Henderson, F., Abdullah, K.G. and Tsering, D. (2020) 'Tractography and the connectome in neurosurgical applications', Neurosurgical Focus, 48(2), E6.​
+Rheault, F., Poulin, P., Valcourt Caron, A., St-Onge, E. and Descoteaux, M. (2020) 'Common misconceptions, hidden biases and modern challenges of dMRI tractography', Journal of Neural Engineering, 17(1), 011001. doi:10.1088/1741–2552/ab6aad.​
+Schilling, K.G., Nath, V., Hansen, C., Parvathaneni, P., Blaber, J., Gao, Y., Neher, P., Aydogan, D.B., Shi, Y. and O'Donnell, L.J. (2020) 'Brain connections derived from diffusion MRI tractography can be highly anatomically inaccurate', NeuroImage, 215, 116767.​
+Théberge, A., Ferland, G., Soucy, J.-P., Descoteaux, M. and Girard, G. (2021) 'Track-to-Learn: A general framework for tractography with deep reinforcement learning', NeuroImage, 239, 118316.​
