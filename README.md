@@ -11,7 +11,7 @@ The codebase facilitates:
 
 ## Prerequisites
 - Python 3.8+
-- [TrackToLearn](https://github.com/GuillaumeTh/TrackToLearn) (included as submodule/folder)
+- [TrackToLearn]([https://github.com/GuillaumeTh/TrackToLearn](https://github.com/scil-vital/TrackToLearn.git)) (included as submodule/folder)
 - DIPY
 - Nibabel
 - Fury (for rendering)
